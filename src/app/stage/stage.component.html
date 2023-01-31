@@ -1,0 +1,8 @@
+<div
+  class="object"
+  *ngIf="state$ | async as state"
+  [style.width.px]="state.size.width"
+  [style.height.px]="state.size.height"
+  [style.top.px]="state.coordinates.y"
+  [style.left.px]="state.coordinates.x"
+></div>
