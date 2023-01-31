@@ -1,3 +1,6 @@
+@use '@haiilo/catalyst/dist/catalyst/scss/variables' as *;
+@use '@haiilo/catalyst/dist/catalyst/scss/mixins' as *;
+
 :host {
   background-color: #94bcdf;
   height: 100%;
