@@ -18,7 +18,7 @@
     "@angular/platform-browser": "^15.0.0",
     "@angular/platform-browser-dynamic": "^15.0.0",
     "@angular/router": "^15.0.0",
-    "@haiilo/catalyst-angular": "4.1.0",
+    "@haiilo/catalyst-angular": "5.0.0",
     "@haiilo/catalyst-icons": "0.3.20",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
